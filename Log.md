@@ -28,11 +28,6 @@ There was no session today so the team and I decided to do some research on our 
 look rosviz and learnt about ROS and how it could
 
 ## Entry #4
-20/03/2025, completed 30/03/2025
+20/03/2025, completed 06/04/2025
 
-trying to get camera access
-fixing ssh for a team member
-had phd robotics student helping us (although this wasnt his area of research)
-had trouble setting up camera reading stream etc i think becuase no GUI
-
-There werent any sessions for the last two weeks as the robotics soc heads were busy with coursework, however there was one today. We worked on trying to get camera access, and after a few unsuccesful attempts we turned to chatgpt, which then lead to many more unsuccesful attempts. One of us on the team also had an issue connecting to the jetson nano through ssh, it turned out one of thier ssh keys was the default one and whenever they tried to ssh it used that instead of the one he made (he forgot the password of the previous key), eventually after 20 minutes of trial and error we just went with deleting all his previous keys, and generating a new one which eventually worked. We also had issues testing the camera as the nano was in headless mode, and there arent many ways to test it. Before the end of the session we figured out multiple ways forward which we shall be testing in the next session.
+There werent any sessions for the last two weeks as the robotics soc heads were busy with coursework, however there was one today. We worked on trying to get camera access, and after a few unsuccesful attempts we turned to chatgpt, which then lead to many more unsuccesful attempts. One of us on the team also had an issue connecting to the jetson nano through ssh, it turned out one of thier ssh keys was the default one and whenever they tried to ssh it used that instead of the one he made (he forgot the password of the previous key), eventually after 20 minutes of trial and error we just went with deleting all his previous keys, and generating a new one which eventually worked. We also had issues testing the camera as the nano was in headless mode, and there arent many ways to test it. Before the end of the session we figured out multiple ways forward which we shall be testing in the next session. This is also the final session of the term, my group and I will try and meet up over the break virtually at least once before exams to discuss our plans going forward and do a little research.
